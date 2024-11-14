@@ -7,5 +7,10 @@
 ![image](https://github.com/user-attachments/assets/a070a86a-0d7e-40ab-8e5c-a3d1ca9bf943)
 ![image](https://github.com/user-attachments/assets/049880a1-9a3f-4d51-a36f-a0d5b42a3461)
 
+# ejemplo 3:Utilice CSS para darle estilo al elemento <article>
+
+
+
+
 
 
